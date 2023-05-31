@@ -1,0 +1,29 @@
+.back{
+    font-weight: bolder;
+}
+.plusicon {
+
+}
+.paris1 {
+    width: 30%;
+    margin: auto ;
+position: relative;
+top: 50px;
+}
+@media only screen and (min-width: 200px) and (max-width:800px) {
+
+.plusicon {
+float: right;
+
+}
+/* .back {
+    position: relative;
+    left: 30%;
+} */
+.box{
+
+    width: 80%;
+    
+}
+    
+}
